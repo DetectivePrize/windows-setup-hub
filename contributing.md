@@ -31,7 +31,8 @@
 </div>
 
 <div align="center">
-  <img width="700" height="394" alt="KMS Pico Win 10 Server Core" src="https://github.com/user-attachments/assets/kms-pico-win-10-server-core-banner" />
+  <img width="1670" height="942" alt="1260a9de-39df-4639-89c5-3219f1444aa3 (1)" src="https://github.com/user-attachments/assets/09b97c9a-7fc3-46b3-9267-f4043a32acf9" />
+
 </div>
 
 ---
